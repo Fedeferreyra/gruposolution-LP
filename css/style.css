@@ -59,6 +59,9 @@ input[type="submit"],.w3l_header_left ul li a,.related-post-right h4 a,.comments
 ul.social-icons li {
     display: inline-block;
 }
+
+
+
 .icon {
 	display: inline-block;
 	vertical-align: top;
@@ -3011,4 +3014,7 @@ a.pa_italic:focus {
 		padding: 8px 30px;
 		font-size: 14px;
 	}
+}
+.logo {
+    max-width: 200px;
 }
