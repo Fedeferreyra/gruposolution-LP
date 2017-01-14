@@ -199,6 +199,12 @@ th {
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
   }
+    
+    
+.footer .h4 {
+        color: #514b52;
+    }
+    
   a,
   a:visited {
     text-decoration: underline;

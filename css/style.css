@@ -3018,3 +3018,19 @@ a.pa_italic:focus {
 .logo {
     max-width: 200px;
 }
+
+.footer h4 {
+    color: #514b52;
+}
+
+h4.grey {
+    color: #514b52;
+}
+
+p.grey {
+    color: #514b52;
+}
+
+.footer ul li a.grey{
+    color: #514b52;
+}
